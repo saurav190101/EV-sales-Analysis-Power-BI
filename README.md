@@ -53,7 +53,8 @@ This dashboard supports:
 
 | inshigts Dasboard |  |
 |--------------|------------------|-----------------|
-| ![1](https://github.com/saurav190101/EV-sales-Analysis-Power-BI/blob/main/cagr%20by%20vehicle.png) 
+| ![1](https://github.com/saurav190101/EV-sales-Analysis-Power-BI/blob/main/Screenshot%202025-07-04%20213530.png
+) 
 
 
 
