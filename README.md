@@ -51,9 +51,9 @@ This dashboard supports:
 
 ## 📸 Dashboard Screenshots
 
-| Overall View | State-Level CAGR | Penetration Map |
+| inshigts Dasboard |  |
 |--------------|------------------|-----------------|
-| ![1](https://github.com/saurav190101/EV-sales-Analysis-Power-BI/blob/main/cagr%20by%20vehicle.png) | ![2](https://github.com/saurav190101/EV-sales-Analysis-Power-BI/blob/main/cagr%20by%20state.png) 
+| ![1](https://github.com/saurav190101/EV-sales-Analysis-Power-BI/blob/main/cagr%20by%20vehicle.png) 
 
 
 
