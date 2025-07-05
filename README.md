@@ -4,7 +4,7 @@
 
 A professional Power BI dashboard analyzing Electric Vehicle (EV) sales trends across Indian states from 2021 to 2024. This project helps uncover key insights like category-wise growth, regional penetration, and adoption trends for 2-wheelers and 4-wheelers.
 
-![Dashboard Preview](./ev-dashboard-preview.png) 
+![Dashboard Preview](https://github.com/saurav190101/EV-sales-Analysis-Power-BI/blob/main/Dashboad.png) 
 
 ---
 
